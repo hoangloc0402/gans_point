@@ -1,1 +1,1 @@
-# gans_point
+My experiment on GANs using simple point distribution
